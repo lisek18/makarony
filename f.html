@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+        <html lang="pl-PL">
+
+<head>
+	<meta charset="utf-8">
+ <link rel="shortcut icon" href="logo.ico">
+	<link rel="stylesheet" href="fd.css">
+<title> Dodaj pracownika </title>
+</head>
+<body>
+	<div id="wszystko">
+		<div id="logo"><a><img src="logo.jpg" width="150" height="125" alt="tekst alternatywny" onClick="history.back();"></a></div>
+	<form action="dodaj.php" method="get" enctype="text/plain">
+<a id="n1">Wprowadź Nazwisko<br><input id="im"  name="Imie"><br></a>
+<a id="n1">Wprowadź Imie<br><input id="im"  name="Nazwisko"><br></a>
+
+<br>
+<a id="n1">Podaj nr telefonu<br><input id="im"  name="Tel"><br></a>
+<br>
+<a id="n1">Wybierz stanowisko<br></a>
+<select id="im" name="Stanowisko">
+	<option selected>1 - Kucharz</option>
+	<option>2 - Kelner</option>
+	<option>3 - Sprzątaczka</option>
+    <option>4 - Menażdżer</option>
+	<option>5 - Szef kelnera</option>
+	<option>6 - Szef kucharza</option>
+	<option>7 - Wlasciciel</option>
+
+
+</select>
+<br>
+<a id="n1">Wybierz język<br></a>
+<select id="im" name="jezyk">
+	<option selected>1 - Angielski</option>
+	<option>2 - Niemiecki</option>
+	<option>3 - Hiszpański</option>
+    <option>4 - Rosyjski</option>
+	<option>5 - Ukraiński</option>
+	<option>6 - Włoski</option>
+	<option>7 - Francuski</option>
+	<option>8 - Portugalski</option>
+	<option>9 - Duński</option>
+	<option>10 - Inny</option>
+</select>
+
+<br><br><br>
+
+<input  type="submit" id="przycisk" value="Dodaj pracownika">
+<br><br><br>
+</div>
+</form>
+</body>
+</html>

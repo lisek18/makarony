@@ -1,0 +1,47 @@
+#container{
+    width:1920px;
+    height:1080px;
+    background-color:#FFEBCD;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1px;
+	text-align: center;
+    font-size: 30px;
+    font-family: 'Whisper', cursive;
+    color: #f39302;
+    }
+    #przycisk{
+
+        font-family: 'Whisper', cursive;
+        background-color: #f39302;
+        font-size: 30px;
+        color: white;
+        border-radius:20px;
+        border-color:#f39302;
+        border-width: 1px;
+    }
+    #im{
+        font-family: 'Whisper', cursive;
+        font-style:italic;
+        font-size: 30px;
+        background-color:#f39302 ;
+        color: white;
+    }
+    #logo{
+        text-align: left;
+        float: left;
+        width: 100%;
+        height: 5%;
+    }
+    table{
+        text-align: center;
+        float: left;
+
+     margin-left: 850px;
+      
+    }
+    td,th{
+        border-right-width: 30px;
+        border-style: solid;
+        border-color:#FFEBCD;
+    }

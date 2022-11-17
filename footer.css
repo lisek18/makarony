@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(#ffffff,#ffb951);
+}
+#open{
+    font-family: 'Whisper', cursive;
+    font-style:italic;
+        font-weight: bold;
+        width: 33%;
+    font-size: 20px;
+    float:left;
+    text-align: center;
+}
+#kon{
+    font-family: 'Whisper', cursive;
+    font-style:italic;
+        font-weight: bold;
+        text-align: center;
+        width: 34%;
+        font-size: 20px;
+        float:left;
+}
+#adres{
+    font-family: 'Whisper', cursive;
+    font-style:italic;
+        font-weight: bold;
+        width: 33%;
+        font-size: 20px;
+        float:left;
+        text-align: center;
+}

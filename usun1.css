@@ -1,0 +1,22 @@
+#container{
+    width:1920px;
+    height:1080px;
+    background-color:#FFEBCD;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1px;
+	text-align: center;
+    font-size: 50px;
+    font-family: 'Whisper', cursive;
+    color: #f39302;
+    }
+    #przycisk{
+
+        font-family: 'Whisper', cursive;
+        background-color: #f39302;
+        font-size: 30px;
+        color: white;
+        border-radius:20px;
+        border-color:#f39302;
+        border-width: 1px;
+    }

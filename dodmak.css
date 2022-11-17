@@ -1,0 +1,36 @@
+#wszystko{
+    text-align: center;
+    background-color: #FFEBCD;
+    width: 1920px;
+    height: 1080px;
+    margin-left: auto;
+    margin-top:1px;
+}
+#im{
+    font-family: 'Whisper', cursive;
+    font-style:italic;
+    font-size: 30px;
+    background-color:#f39302 ;
+    color: white;
+}
+#n1{
+    font-family: 'Whisper', cursive;
+    font-style:italic;
+    font-size: 30px; 
+}
+#przycisk{
+
+    font-family: 'Whisper', cursive;
+    background-color: #f39302;
+    font-size: 50px;
+    color: white;
+    border-radius:20px;
+    border-color:#f39302;
+    border-width: 1px;
+}
+#logo{
+    text-align: left;
+    float: left;
+    width: 100%;
+    height: 5%;
+}

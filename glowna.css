@@ -1,0 +1,119 @@
+#container{
+    width:100%;
+    height:100%;
+    background-color:red;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    }
+#n1{
+    font-family: 'Whisper', cursive;
+    background: linear-gradient(#f39302 , #FFEBCD);
+    width:100%;
+    height:120px;
+    font-size: 85px;
+    text-align: center;
+   color:#ff4000;
+}
+#lewy{
+    background-color:#FFEBCD;
+    width:20%;
+    height:900px;
+    float: left;
+}
+#menelu{
+    background-color:#FFEBCD;
+    width:60%;
+    height:255px;
+    text-align: center;
+    float: left;
+    }
+    #logo{
+        background-color:#FFEBCD;
+        width:60%;
+		height:555px; 
+        float: left;
+        text-align: center;
+    }
+#prawy{
+    background-color:#FFEBCD;
+    width:20%;
+    height:900px;
+    float: right;
+}
+
+
+    #zarzad{
+        background-color:#ffebcd;
+        width: 60%;
+        height: 90px;
+        font-style:italic;
+        font-weight: bold;
+        font-size: 85px;
+        text-align: center;
+        color:#E9967A;
+        float:left;
+    }
+    #tor{
+        width: 60%;
+        height: 455px; 
+        text-align: center;
+        background-color: #ffebcd;
+        float:left;
+    }
+#z1{
+   font-family: 'Whisper', cursive;
+    font-style:italic;
+        font-weight: bold;
+    background-color:#FFEBCD;
+    font-size: 43px;
+    float:left;
+    width: 33%;
+    height: 490px;
+    color:#ff4000;
+    text-align: center;
+    background:linear-gradient(to right, #f39302,#FFEBCD);
+}
+#z2{
+    font-family: 'Whisper', cursive;
+    font-style:italic;
+        font-weight: bold;
+    background-color:#FFEBCD;
+    font-size: 45px;
+    float:left;
+    width: 34%;
+    height: 490px;
+    color:#ff4000;
+    text-align: center;
+}
+#z3{
+    font-family: 'Whisper', cursive;
+    font-style:italic;
+        font-weight: bold;
+    background-color:#ffebcd;
+    font-size: 32px;
+    float:left;
+    width: 33%;
+    height: 490px;
+    color:#ff4000;
+    text-align: center;
+    background:linear-gradient(to right,#FFEBCD, #f39302);
+}
+
+#lewy2{
+   
+    width:20%;
+    height:455px;
+    float: left;
+    text-align: center;
+    
+    background:linear-gradient(to right,#f39302, #FFEBCD);
+}
+#prawy2{
+   
+    width:20%;
+    height:455px;
+    float: right;
+    text-align: center;
+    background:linear-gradient(to right,#FFEBCD, #f39302);
+}

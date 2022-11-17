@@ -1,0 +1,63 @@
+body{
+    background-color:#FFEBCD; 
+}
+#container{
+    width:100%;
+    height:20%;
+    background-color:#FFEBCD;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1px;
+    }
+    #menu{
+        text-align: center;
+        width:100%;
+        height: 900px;
+        text-align: center;
+    }
+    #tabelka{
+        text-align: center;
+        float: left;
+
+     margin-left: 570px;
+       
+        
+    }
+
+    #tabelka td{
+        text-align: center;
+       border-color: #FFEBCD;
+        border-width: 10px;
+        border-style: solid;
+    }
+
+   #first{
+    font-family: 'Whisper', cursive;
+    font-size: 40px;
+   font-weight: bold;
+    background-color: #f39302;
+   }
+ #duo{
+    font-size: 40px;
+    font-family: 'Whisper', cursive;
+    background-color: #f39302;
+    font-weight: bold;
+   } 
+   #thre{
+    font-size: 25px;
+    font-family: 'Whisper', cursive;
+} 
+#for{
+    font-size: 25px;
+    font-family: 'Whisper', cursive;
+}
+#menuuu{
+    font-size: 90px;
+    font-family: 'Whisper', cursive;
+}
+#logo{
+    text-align: left;
+    float: left;
+    width: 100%;
+    height: 5%;
+}
